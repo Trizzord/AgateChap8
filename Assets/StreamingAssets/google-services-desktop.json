@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "969812429245",
+    "project_id": "incrementalgame-chap8",
+    "storage_bucket": "incrementalgame-chap8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969812429245:android:cc49b5d88b6a1bba726ad4",
+        "android_client_info": {
+          "package_name": "com.tegar.incrementalgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969812429245-8o9a86ifnlvrn25g19090u5mptl1vtjc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkUajFkyLMsB48Ch6eP3kIKXkNLeXPl3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969812429245-8o9a86ifnlvrn25g19090u5mptl1vtjc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
